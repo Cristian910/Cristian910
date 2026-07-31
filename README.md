@@ -34,7 +34,7 @@ permisos aplicados en el servidor, sincronización offline real.
 
 ---
 
-### 🧱 Stack
+### Stack
 
 **Lenguajes**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
