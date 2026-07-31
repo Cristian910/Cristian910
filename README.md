@@ -14,7 +14,7 @@ permisos aplicados en el servidor, sincronización offline real.
 
 ---
 
-### 🧭 Sobre mí
+### Sobre mí
 
 - Full-Stack Developer — backend (NestJS) y frontend (React / Next.js) por igual, no solo maquetación.
 - Lo que más me interesa: sistemas con reglas de negocio reales — motores de decisión, permisos, estado.
