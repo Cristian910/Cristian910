@@ -71,19 +71,6 @@ Todos con demo pública — nada de capturas de Figma.
 
 ---
 
-### 📊 Actividad
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristian910&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=FF8A3D&icon_color=FF8A3D&text_color=F2F1EC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian910&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=FF8A3D&text_color=F2F1EC" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian910&hide_border=true&background=0A0B0D&ring=FF8A3D&fire=FF8A3D&currStreakLabel=F2F1EC&sideLabels=F2F1EC&dates=9B9C9F" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 ¿Tenés un proyecto o una posición abierta?
