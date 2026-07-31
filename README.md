@@ -73,7 +73,7 @@ Todos con demo pública — nada de capturas de Figma.
 
 <div align="center">
 
-### 🤝 ¿Tenés un proyecto o una posición abierta?
+### 🤝 ¿Tienes un proyecto o una oferta abierta?
 
 Estoy buscando trabajo freelance y full-time. Si buscás a alguien que entregue el producto completo y pueda explicar cada decisión técnica, hablemos.
 
