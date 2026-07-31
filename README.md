@@ -23,9 +23,7 @@ permisos aplicados en el servidor, sincronización offline real. No CRUDs de pr�
 
 ---
 
-### 🚀 Proyectos reales, en producción
-
-Todos con demo pública — nada de capturas de Figma.
+### Proyectos en producción
 
 | Proyecto | Qué hace | Stack | Demo |
 |---|---|---|---|
@@ -73,9 +71,9 @@ Todos con demo pública — nada de capturas de Figma.
 
 <div align="center">
 
-### 🤝 ¿Tienes un proyecto o una oferta abierta?
+### ¿Tienes un proyecto o una oferta abierta?
 
-Estoy buscando trabajo freelance y full-time. Si buscás a alguien que entregue el producto completo y pueda explicar cada decisión técnica, hablemos.
+Si buscás a alguien que entregue el producto completo y pueda explicar cada decisión técnica, hablemos.
 
 [![Email](https://img.shields.io/badge/Email-Escribime-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ospinacristian0219@gmail.com)
 
