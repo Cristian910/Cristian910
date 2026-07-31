@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hola, soy Cristian Ospina👋
+# Hola, soy Cristian Ospina
 
 ### Full-Stack Developer · reglas explícitas, no cajas negras
 
 Construyo productos completos y los llevo hasta producción: motores de reglas auditables,
 permisos aplicados en el servidor, sincronización offline real. No CRUDs de práctica.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tudominio.dev-FF8A3D?style=for-the-badge&logo=vercel&logoColor=white)](https://Cristian-Ospina.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Escribime-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ospinacristian0219@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Cristian-Ospina.vercel.app-FF8A3D?style=for-the-badge&logo=vercel&logoColor=white)](https://Cristian-Ospina.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Escribeme-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ospinacristian0219@gmail.com)
 
 </div>
 
